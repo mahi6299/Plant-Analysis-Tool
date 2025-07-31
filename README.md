@@ -6,18 +6,28 @@ Built with HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and integrates t
 ## ✨ Features
 
 ~ Upload a plant image through a clean and user-friendly web interface
+
 ~ Generate detailed plant analysis reports using the Gemini AI API
+
 ~ Download generated reports as PDF/text files, stored in the /reports folder
+
 ~ Persist report metadata and history in MongoDB
+
 ~ Test and document REST APIs using Postman
+
 ~ Responsive frontend built with HTML, CSS, and JavaScript
+
 ~ Robust backend with Node.js and Express.js
 
 ## ⚙️ Tech Stack
 ~ Frontend: HTML, CSS, JavaScript
+
 ~ Backend: Node.js, Express.js
+
 ~ Database: MongoDB
+
 ~ AI Integration: Gemini API
+
 ~ Tools: Postman (API testing), File system (report storage)
 
 ## 🚀 Getting Started
@@ -40,7 +50,11 @@ npm start
 ## 🛠 Usage
 
 ~ Open the web application in your browser.
+
 ~ Upload an image of a plant.
+
 ~ The system generates a detailed AI-powered analysis report.
+
 ~ Download the report (PDF/text) which is also saved in the reports folder.
+
 ~ View saved reports or history via the frontend.
